@@ -1,5 +1,5 @@
-,tienda,stock_disponible,class_number,ubicación_cliente,distancia
-0,Multiplaza,2,1,El Cangrejo,3 km
-1,Town Center,1,1,Brisas del Golf, 10 km
-2,Albrook,0,0,El Cangrejo,7 km
-3,Metromall,5,1,Brisas del Golf,3 km
+,tienda,stock_disponible,class_number,ubicaciÃ³n_cliente,distancia_km
+0,Multiplaza,2,1,El Cangrejo,3
+1,Town Center,1,1,Brisas del Golf,10
+2,Albrook,0,0,El Cangrejo,7
+3,Metromall,5,1,Brisas del Golf,3
